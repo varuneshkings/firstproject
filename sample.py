@@ -1,8 +1,4 @@
-a=150
+a=15
 b=1
-<<<<<<< HEAD
 print(a+b)
 
-=======
-print(a*b)
->>>>>>> newbranch
